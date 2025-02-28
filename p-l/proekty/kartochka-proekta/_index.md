@@ -4,5 +4,3 @@ title: Карточка проекта
 ---
 
 [view:hierarchy=none::::List]
-
-

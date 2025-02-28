@@ -1,6 +1,6 @@
 ---
 order: 1
-title: P&L
+title: ФУНКЦИОНАЛ P&L
 ---
 
 [view:hierarchy=none::::List]
