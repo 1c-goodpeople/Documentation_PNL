@@ -1,11 +1,3 @@
-OP0Nm:
-  comment:
-    user:
-      mail: iskina.xen@yandex.ru
-      name: KseniaGpIt
-    dateTime: '2025-04-15T08:54:48.218Z'
-    content: каких именно справочников может стоит написать
-  answers: []
 BPxUo:
   comment:
     user:
@@ -13,14 +5,4 @@ BPxUo:
       name: KseniaGpIt
     dateTime: '2025-04-15T08:55:19.648Z'
     content: '1С: Бухгалтерия предприятия'
-  answers: []
-hvfkN:
-  comment:
-    user:
-      mail: iskina.xen@yandex.ru
-      name: KseniaGpIt
-    dateTime: '2025-04-15T09:05:38.844Z'
-    content: >-
-      автоматически устанавливается галочка в актах и счетах в том порядке, как
-      задано в графике внутри договора.
   answers: []
