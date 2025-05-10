@@ -1,5 +1,6 @@
 ---
 title: СТАРТ. Как пользоваться документацией
+order: 1
 ---
 
 Перед вами документация по модулю “P&L для 1С:Предприятие 8”.
@@ -34,7 +35,7 @@ title: СТАРТ. Как пользоваться документацией
 
    -  Какие бывают [Движки Clickhouse](https://gramax.denvic.ru/extractor_docs/extraktor-1s/terminy-opredeleniya-i-kak-eto-rabotaet/dvizhki-clickhouse)? - подробно о движках таблиц СУБД Clickhouse с описанием их свойств и применимости к выгрузке данных с помощью Экстрактора 1С. Статья поможет вам определиться, какой движок выбирать при проектировании.
 
--  [**МЕНЮ ЭКСТРАКТОРА 1С** --](https://gramax.denvic.ru/extractor_docs/extraktor-1s/menyu-extraktora) описание интерфейса меню.
+-  [**ФУНКЦИОНАЛ P&L** --](https://gramax.denvic.ru/extractor_docs/extraktor-1s/menyu-extraktora) описание интерфейса меню.
 
 -  [**ИНСТРУКЦИЯ ПО СОЗДАНИЮ ПРОЕКТА**](https://gramax.denvic.ru/extractor_docs/extraktor-1s/instrukciya-kak-vygruzhat-dannye) - **это основная универсальная инструкция**, подробно описывающая все этапы проектирования выгрузки.
 
