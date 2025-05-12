@@ -20,7 +20,7 @@ RXAsZ:
       mail: iskina.xen@yandex.ru
       name: KseniaGpIt
     dateTime: '2025-04-15T08:39:49.845Z'
-    content: Отредактировать или поправить уместнее использовать .
+    content: 'Отредактировать или поправить '
   answers: []
 PtkVo:
   comment:
@@ -29,4 +29,12 @@ PtkVo:
       name: KseniaGpIt
     dateTime: '2025-04-15T08:41:07.598Z'
     content: вариант отчета тоже выбрать
+  answers: []
+RKjiT:
+  comment:
+    user:
+      mail: iskina.xen@yandex.ru
+      name: KseniaGpIt
+    dateTime: '2025-05-12T09:27:35.338Z'
+    content: занимаетесь
   answers: []
