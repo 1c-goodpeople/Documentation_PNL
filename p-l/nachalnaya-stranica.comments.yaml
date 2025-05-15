@@ -52,11 +52,9 @@ ujY5j:
       mail: iskina.xen@yandex.ru
       name: KseniaGpIt
     dateTime: '2025-05-14T12:48:07.080Z'
-    content: >+
+    content: >-
       выводятся в сформированном отчете исходя из информации по проводкам по
       бухгалтерскому учету, а также документа Операция по кошельку.
-
-
   answers: []
 EAjqs:
   comment:
@@ -68,4 +66,49 @@ EAjqs:
       Показатели раскрываются путем наведения на них, после чего справа
       открывается окно расшифровки, в котором можно увидеть, исходя из каких
       документов и сумм они возникли
+  answers: []
+k4AZi:
+  comment:
+    user:
+      mail: iskina.xen@yandex.ru
+      name: KseniaGpIt
+    dateTime: '2025-05-15T05:57:09.044Z'
+    content: >-
+      В правой половине рабочего стола отражены по вкладкам договоры и
+      бухгалтерские документы за тот же период, что можно увидеть в левой
+      половине рабочего стола.
+  answers: []
+dVoCY:
+  comment:
+    user:
+      mail: iskina.xen@yandex.ru
+      name: KseniaGpIt
+    dateTime: '2025-05-15T05:57:42.135Z'
+    content: убедиться
+  answers: []
+4NFyU:
+  comment:
+    user:
+      mail: iskina.xen@yandex.ru
+      name: KseniaGpIt
+    dateTime: '2025-05-15T05:59:22.147Z'
+    content: проведена ли проверка по новым договорам
+  answers: []
+RxqOt:
+  comment:
+    user:
+      mail: iskina.xen@yandex.ru
+      name: KseniaGpIt
+    dateTime: '2025-05-15T06:00:29.472Z'
+    content: распределение в документах задано верно или требует исправления
+  answers: []
+7TaHy:
+  comment:
+    user:
+      mail: iskina.xen@yandex.ru
+      name: KseniaGpIt
+    dateTime: '2025-05-15T06:02:27.249Z'
+    content: >-
+      В случае обнаружения недостоверных сведений, имеется возможность тут же
+      поправить найденные недочеты.
   answers: []
