@@ -198,5 +198,3 @@ title: Проекты
 Для этого воспользуйтесь инструментом[ по загрузке номенклатуры в раздел проекта](./kartochka-proekta/zagruzka-nomenklatury-v-razdel-proekta)
 
 :::
-
-
