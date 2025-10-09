@@ -91,7 +91,7 @@ title: Релиз 1.40.0.0
 
 :::tip 
 
-[Как пользоваться документом описано здесь](./../../p-l/new-article-3/zakaz-postavschiku)
+[Как пользоваться документом описано здесь](./../../../p-l/new-article-3/zakaz-postavschiku)
 
 :::
 
