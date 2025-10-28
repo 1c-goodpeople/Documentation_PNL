@@ -43,7 +43,7 @@ title: Релиз 1.41.0.0
 
 :::tip 
 
-[Как пользоваться инструментом подробно описано в инструкции по продукту](./../../p-l/dokumenty/reglamentnye-operacii)
+[Как пользоваться инструментом подробно описано в инструкции по продукту](./../../p-l/dokumenty/dokumenty-dlya-bukhgalterii-predpriyatiya/reglamentnye-operacii)
 
 :::
 
