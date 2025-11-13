@@ -33,7 +33,7 @@ title: Релиз 1.41.0.0
 
 :::tip 
 
-[Как пользоваться инструментом подробно описано в инструкции по продукту](./../../../p-l/dokumenty/avtopravila-po-dokumentam-opiu)
+[Как пользоваться инструментом подробно описано в инструкции по продукту](./../../p-l/dokumenty/avtopravila-po-dokumentam-opiu)
 
 :::
 
@@ -43,7 +43,7 @@ title: Релиз 1.41.0.0
 
 :::tip 
 
-[Как пользоваться инструментом подробно описано в инструкции по продукту](./../../../p-l/dokumenty/dokumenty-dlya-bukhgalterii-predpriyatiya/reglamentnye-operacii)
+[Как пользоваться инструментом подробно описано в инструкции по продукту](./../../p-l/dokumenty/dokumenty-dlya-bukhgalterii-predpriyatiya/reglamentnye-operacii)
 
 :::
 
@@ -97,7 +97,7 @@ title: Релиз 1.41.0.0
 
 :::tip 
 
-[Как пользоваться инструментом подробно описано в инструкции по продукту](./../../../p-l/dengi/avtopravila-po-dokumentam-dds)
+[Как пользоваться инструментом подробно описано в инструкции по продукту](./../../p-l/dengi/avtopravila-po-dokumentam-dds)
 
 :::
 
@@ -107,7 +107,7 @@ title: Релиз 1.41.0.0
 
 :::info 
 
-[Как пользоваться инструментом подробно описано в инструкции по продукту](./../../../p-l/dengi/uchet-denezhnykh-sredstv-po-terminalam-kassam)
+[Как пользоваться инструментом подробно описано в инструкции по продукту](./../../p-l/dengi/uchet-denezhnykh-sredstv-po-terminalam-kassam)
 
 :::
 
