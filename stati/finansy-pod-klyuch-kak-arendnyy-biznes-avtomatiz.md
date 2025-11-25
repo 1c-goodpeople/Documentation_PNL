@@ -53,6 +53,10 @@ title: >-
 
 ![](./finansy-pod-klyuch-kak-arendnyy-biznes-avtomatiz-2.png){width=1432px height=405px}
 
+
+
+![](./finansy-pod-klyuch-kak-arendnyy-biznes-avtomatiz-4.png){width=1769px height=1017px}
+
 ![](./finansy-pod-klyuch-kak-arendnyy-biznes-avtomatiz-3.png){width=2100px height=627px}
 
 
