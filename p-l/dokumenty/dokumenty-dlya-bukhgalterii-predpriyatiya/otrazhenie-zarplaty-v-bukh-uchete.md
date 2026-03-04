@@ -69,6 +69,6 @@ title: Отражение зарплаты в бухучете
 
 :::tip Примечание
 
-[Для более детального учета заработной платы используйте систему управленческой заработной платы.](./../../new-article-3/upravlencheskiy-uchet-zarabotnoy-platy)
+[Для более детального учета заработной платы используйте систему управленческой заработной платы.](./../../new-article-3/otrazhenie-zarabotnoy-platy/upravlencheskiy-uchet-zarabotnoy-platy)
 
 :::
