@@ -31,13 +31,13 @@ title: Регламентные операции
 
 Нужно перейти во вкладку настройки -> P&L
 
-[image:./reglamentnye-operacii-2.png:::0,0,100,100::square,41.5698,64.5429,31.4922,8.3102,,top-left:1032px:361px:center]
+[image:./_index-2.png:::0,0,100,100::square,41.5698,64.5429,31.4922,8.3102,,top-left:1032px:361px:center]
 
 
 
 Отразить по операциям статьи
 
-![](./reglamentnye-operacii-4.png){width=1295px height=209px}
+![](./_index-4.png){width=1295px height=209px}
 
 
 
