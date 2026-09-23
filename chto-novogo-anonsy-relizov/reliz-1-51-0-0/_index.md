@@ -21,11 +21,11 @@ order: 0.3
 
 :::info 
 
-[Настройка маршрута согласования](./../p-l/soglasovanie/nastroyka-marshruta-soglasovaniya)
+[Настройка маршрута согласования](./../../p-l/soglasovanie/nastroyka-marshruta-soglasovaniya)
 
-[Согласование заявки на оплату](./../p-l/soglasovanie/soglasovanie-zayavki-na-oplatu)
+[Согласование заявки на оплату](./../../p-l/soglasovanie/soglasovanie-zayavki-na-oplatu)
 
-[Согласование реестра платежей](./../p-l/soglasovanie/soglasovanie-reestra-platezhey)
+[Согласование реестра платежей](./../../p-l/soglasovanie/soglasovanie-reestra-platezhey)
 
 :::
 
@@ -47,7 +47,7 @@ order: 0.3
 
 :::info 
 
-[Распределение косвенных расходов](./../p-l/opiu/kosvennye-raskhody)
+[Распределение косвенных расходов](./../../p-l/opiu/kosvennye-raskhody)
 
 :::
 
@@ -71,7 +71,7 @@ order: 0.3
 
 :::info 
 
-[Настройки. MCP](./../p-l/nastroyki/nastroyki-mcp)
+[Настройки. MCP](./../../p-l/nastroyki/nastroyki-mcp)
 
 :::
 
@@ -95,15 +95,15 @@ order: 0.3
 
 :::info 
 
-[Отпуск](./../p-l/dokumenty/dokumenty-dlya-bukhgalterii-predpriyatiya/otpusk)
+[Отпуск](./../../p-l/dokumenty/dokumenty-dlya-bukhgalterii-predpriyatiya/otpusk)
 
-[Больничный лист](./../p-l/dokumenty/dokumenty-dlya-bukhgalterii-predpriyatiya/bolnichnyy-list)
+[Больничный лист](./../../p-l/dokumenty/dokumenty-dlya-bukhgalterii-predpriyatiya/bolnichnyy-list)
 
-[Премия](./../p-l/dokumenty/dokumenty-dlya-bukhgalterii-predpriyatiya/premiya)
+[Премия](./../../p-l/dokumenty/dokumenty-dlya-bukhgalterii-predpriyatiya/premiya)
 
-[Увольнение](./../p-l/dokumenty/dokumenty-dlya-bukhgalterii-predpriyatiya/uvolnenie)
+[Увольнение](./../../p-l/dokumenty/dokumenty-dlya-bukhgalterii-predpriyatiya/uvolnenie)
 
-[Начисление зарплаты](./../p-l/dokumenty/dokumenty-dlya-bukhgalterii-predpriyatiya/dokument-nachislenie-zarplaty/_index)
+[Начисление зарплаты](./../../p-l/dokumenty/dokumenty-dlya-bukhgalterii-predpriyatiya/dokument-nachislenie-zarplaty/_index)
 
 :::
 
@@ -115,7 +115,7 @@ order: 0.3
 
 :::info 
 
-[Формирование актов и счетов](./../p-l/dogovory/sozdanie-aktov-i-schetov)
+[Формирование актов и счетов](./../../p-l/dogovory/sozdanie-aktov-i-schetov)
 
 :::
 
@@ -137,9 +137,9 @@ order: 0.3
 
 :::info 
 
-[Корректировка стоимости номенклатуры](./../p-l/dokumenty/dokumenty-dlya-bukhgalterii-predpriyatiya/reglamentnye-operacii/korrektirovka-stoimosti-nomenklatury)
+[Корректировка стоимости номенклатуры](./../../p-l/dokumenty/dokumenty-dlya-bukhgalterii-predpriyatiya/reglamentnye-operacii/korrektirovka-stoimosti-nomenklatury)
 
-[Регламентные операции](./../p-l/dokumenty/dokumenty-dlya-bukhgalterii-predpriyatiya/reglamentnye-operacii/_index)
+[Регламентные операции](./../../p-l/dokumenty/dokumenty-dlya-bukhgalterii-predpriyatiya/reglamentnye-operacii/_index)
 
 :::
 
@@ -155,11 +155,12 @@ order: 0.3
 
 :::info 
 
-[Финансовый план (БДР)](./../p-l/new-article-3/finansovyy-plan-bdr)
+[Финансовый план (БДР)](./../../p-l/new-article-3/finansovyy-plan-bdr)
 
-[Финансовый план (БДДС)](./../p-l/new-article-3/finansovyy-plan-bdds)
+[Финансовый план (БДДС)](./../../p-l/new-article-3/finansovyy-plan-bdds)
 
 :::
+
 ## Панель приборов: вкладка «ОПиУ»
 
 В панели приборов появилась вторая вкладка -- **«ОПиУ»**. Рядом с денежным дашбордом из релиза 1.50 теперь есть дашборд прибыли: ключевые показатели в динамике, рентабельность в процентах и структура прибыли.
@@ -180,6 +181,6 @@ order: 0.3
 
 :::info 
 
-[Панель приборов. ОПиУ](./../p-l/panel-priborov/opiu)
+[Панель приборов. ОПиУ](./../../p-l/panel-priborov/opiu)
 
 :::
