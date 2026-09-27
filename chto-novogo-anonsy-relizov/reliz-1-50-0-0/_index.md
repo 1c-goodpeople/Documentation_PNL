@@ -21,7 +21,7 @@ order: 0.5
 
    :::info 
 
-   [Ссылка на руководство по настройке и использованию](./../../p-l/dokumenty/dokumenty-dlya-bukhgalterii-predpriyatiya/raskhod-buduschikh-periodov-po-bukh-uchetu)
+   [Ссылка на руководство по настройке и использованию](./../../p-l/dokumenty/dokumenty-dlya-bukhgalterii-predpriyatiya/reglamentnye-operacii/raskhod-buduschikh-periodov-po-bukh-uchetu)
 
    :::
 
