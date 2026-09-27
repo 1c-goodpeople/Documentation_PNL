@@ -105,6 +105,10 @@ order: 0.3
 
 [Начисление зарплаты](./../../p-l/dokumenty/dokumenty-dlya-bukhgalterii-predpriyatiya/dokument-nachislenie-zarplaty/_index)
 
+[Начисление заработной платы через соответствия подразделений статьям затрат](./../../p-l/dokumenty/dokumenty-dlya-bukhgalterii-predpriyatiya/dokument-nachislenie-zarplaty/nachislenie-zarabotnoy-platy-cherez-sootvetstviya)
+
+[Отражение зарплаты в бухучете](./../../p-l/dokumenty/dokumenty-dlya-bukhgalterii-predpriyatiya/otrazhenie-zarplaty-v-bukh-uchete)
+
 :::
 
 ## Формирование актов и счетов
