@@ -1,6 +1,6 @@
 ---
 order: 0.5
-title: Пересчет себестоимости УТ/КА/ERP
+title: Документы для Управление торговлей
 aliases:
   - path: p-l/opiu/pereschet-sebestoimosti
     moved: "2026-09-30T10:17:21Z"
