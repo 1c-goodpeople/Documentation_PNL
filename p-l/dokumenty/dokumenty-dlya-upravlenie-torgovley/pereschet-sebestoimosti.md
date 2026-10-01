@@ -1,6 +1,6 @@
 ---
 order: 0.5
-title: Документы для Управление торговлей
+title: Приобретение услуг и прочих активов
 aliases:
   - path: p-l/opiu/pereschet-sebestoimosti
     moved: "2026-09-30T10:17:21Z"
