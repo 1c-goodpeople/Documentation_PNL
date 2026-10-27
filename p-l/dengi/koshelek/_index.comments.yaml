@@ -40,4 +40,7 @@ airwP:
     '13': t
     '14': ']'
     content: ''
+    user:
+      mail: nurik@gp-it.ru
+      name: NurikMagamedov
   answers: []
