@@ -117,4 +117,4 @@ order: 4.1
 
 При повторном проведении движения пересчитываются без дублирования. При отмене проведения движения документа, в том числе НЗП, удаляются. Сохранённое ручное распределение может использоваться при следующем проведении.
 
-Подробнее о заполнении реквизитов в отдельных документах — [расход со счёта](../dokumenty/dokumenty-dlya-unf/rashod-so-scheta), [расход из кассы](../dokumenty/dokumenty-dlya-unf/rashod-iz-kassy), [приходная накладная](../dokumenty/dokumenty-dlya-unf/prihodnaya-nakladnaya), [расходная накладная](../dokumenty/dokumenty-dlya-unf/rashodnaya-nakladnaya), [акт выполненных работ](../dokumenty/dokumenty-dlya-unf/akt-vypolnennyh-rabot).
+Подробности заполнения реквизитов: [приходная накладная](../dokumenty/dokumenty-dlya-unf/prihodnaya-nakladnaya), [расходная накладная](../dokumenty/dokumenty-dlya-unf/rashodnaya-nakladnaya), [акт выполненных работ](../dokumenty/dokumenty-dlya-unf/akt-vypolnennyh-rabot).
