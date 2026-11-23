@@ -20,6 +20,7 @@ title: Документы для Управление торговлей
 - [Отчёт комиссионера о списании](otchet-komissionera-ospisanii)
 - [Отчёт о розничных возвратах](otchet-oroznichnyh-vozvratah)
 - [Отчёт о розничных продажах](otchet-oroznichnyh-prodazhah)
+- [Приобретение товаров и услуг](priobretenie-tovarov-i-uslug)
 - [Приобретение услуг и прочих активов](priobretenie-uslug-i-prochih-aktivov)
 - [Расчёт курсовых разниц](raschet-kursovyh-raznic)
 - [Реализация товаров и услуг](realizaciya-tovarov-uslug)
